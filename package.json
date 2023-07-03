@@ -2,7 +2,7 @@
   "name": "generic-components",
   "version": "1.0.0",
   "description": "Amey Khoje Portfolio",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://github.com/AmeyKhoje/portfolio-2023.git",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve -- --env mode=development",
